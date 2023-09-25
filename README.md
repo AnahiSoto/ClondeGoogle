@@ -28,4 +28,4 @@ Aprender a utilizar las etiquetas estandar HTML5 y CSS3.
 
 ##Link a Demo
 Aquí puedes ver mi proyecto terminado:
-**[Clon de Google](https://clondegoogle-five.vercel.app/)
+[Clon de Google](https://clonde-google-one.vercel.app/)
